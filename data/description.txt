@@ -1,3 +1,4 @@
 
-<br>files in this directory are collected data from naver news
-<br>I mostly deleted unnecessary html tags, but many of them still remain
+files in this directory are collected data from naver news
+
+I mostly deleted unnecessary html tags, but many of them still remain
