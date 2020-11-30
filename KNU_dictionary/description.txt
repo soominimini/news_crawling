@@ -1,0 +1,3 @@
+these files in this directory are I used for sentiment analysis.
+
+I downloaded this dictionary from KNU, but I modify some words( added some words ) to optimize this dictionary to analyze sentiment from stock news
